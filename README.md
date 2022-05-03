@@ -14,7 +14,7 @@
 <img align="center" alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee"/>
 </div><br/>
 
-Cursando Sistemas da Informação, procuro iniciar minha carreira profissional como desenvolvedor de softwer
+Cursando Sistemas da Informação, procuro iniciar minha carreira profissional como dev de software.
 
 ## Contatos:
 - e-mail: guilherme.m.santos3399@gmail.com
